@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/Ramangupta6117/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
