@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ramangupta6117/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ramangupta6117/leetcode/tree/master/0075-sort-colors) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Enumeration
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
+| [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
