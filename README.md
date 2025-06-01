@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ramangupta6117/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ramangupta6117/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Trie
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Ramangupta6117/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ramangupta6117/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
