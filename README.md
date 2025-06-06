@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ramangupta6117/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ramangupta6117/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ramangupta6117/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ramangupta6117/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ramangupta6117/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
