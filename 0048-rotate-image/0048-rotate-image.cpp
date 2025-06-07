@@ -8,7 +8,13 @@ public:
             }
         }
         for(int i = 0;i<n;i++){
-            reverse(matrix[i].begin(),matrix[i].end());
+            int st =0;
+            int end = n-1;
+            while(st<end){
+                swap(matrix[i][st],matrix[i][end]);
+                st++;
+                end--;
+            }
         }
     }
 };
