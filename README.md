@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ramangupta6117/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ramangupta6117/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ramangupta6117/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ramangupta6117/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ramangupta6117/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ramangupta6117/leetcode/tree/master/0162-find-peak-element) |
 ## String
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ramangupta6117/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Sliding Window
 |  |
 | ------- |
