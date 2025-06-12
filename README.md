@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Ramangupta6117/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Ramangupta6117/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ramangupta6117/leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
