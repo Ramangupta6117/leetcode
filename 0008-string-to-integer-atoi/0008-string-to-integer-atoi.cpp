@@ -4,8 +4,9 @@ public:
         int i = 0 , sign = 1;
         long ans = 0;
 
-        while(s[i] == ' ') i++;
-        if(s[i] == '+' || s[i] == '-'){
+        while(s[i] == ' ') i++; // handle whitespaces
+
+        if(s[i] == '+' || s[i] == '-'){ 
             sign=(s[i]=='-')? -1:1;
             i++;
         }
