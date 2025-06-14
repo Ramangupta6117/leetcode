@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Ramangupta6117/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Ramangupta6117/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ramangupta6117/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ramangupta6117/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0229-majority-element-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
 |  |
