@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ramangupta6117/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
+| [0812-rotate-string](https://github.com/Ramangupta6117/leetcode/tree/master/0812-rotate-string) |
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Trie
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Ramangupta6117/leetcode/tree/master/0812-rotate-string) |
 ## Counting
 |  |
 | ------- |
