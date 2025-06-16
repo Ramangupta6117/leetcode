@@ -5,6 +5,13 @@ public:
         int m = goal.size();
         if(n != m) return false;
         string doubled = s + s;
-        return doubled.find(goal) != string::npos;
+        //return doubled.find(goal) != string::npos;
+        for (int i = 0; i < s.length(); i++) {
+            string rotated = doubled.substr(i, s.length());
+            if (rotated == goal) {
+                return true;
+            }
+        }
+        return false;
     }
 };
