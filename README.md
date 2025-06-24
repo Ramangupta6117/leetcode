@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ramangupta6117/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
