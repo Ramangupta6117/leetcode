@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ramangupta6117/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramangupta6117/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Ramangupta6117/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ramangupta6117/leetcode/tree/master/0525-contiguous-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Ramangupta6117/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Sorting
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Ramangupta6117/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
