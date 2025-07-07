@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Ramangupta6117/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ramangupta6117/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ramangupta6117/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ramangupta6117/leetcode/tree/master/0242-valid-anagram) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Ramangupta6117/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ramangupta6117/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ramangupta6117/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramangupta6117/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Ramangupta6117/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ramangupta6117/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ramangupta6117/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ramangupta6117/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramangupta6117/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Ramangupta6117/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
