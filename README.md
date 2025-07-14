@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramangupta6117/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramangupta6117/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ramangupta6117/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ramangupta6117/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Ramangupta6117/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
