@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramangupta6117/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ramangupta6117/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Ramangupta6117/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ramangupta6117/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ramangupta6117/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Ramangupta6117/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ramangupta6117/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Ramangupta6117/leetcode/tree/master/0547-number-of-provinces) |
 ## Merge Sort
 |  |
 | ------- |
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ramangupta6117/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ramangupta6117/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
