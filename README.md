@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ramangupta6117/leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0812-rotate-string](https://github.com/Ramangupta6117/leetcode/tree/master/0812-rotate-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Ramangupta6117/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Trie
