@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ramangupta6117/leetcode/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Ramangupta6117/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ramangupta6117/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/Ramangupta6117/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramangupta6117/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Ramangupta6117/leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ramangupta6117/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ramangupta6117/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ramangupta6117/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ramangupta6117/leetcode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Ramangupta6117/leetcode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Ramangupta6117/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Union Find
 |  |
 | ------- |
