@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ramangupta6117/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Ramangupta6117/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Ramangupta6117/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ramangupta6117/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Stack
 |  |
 | ------- |
@@ -393,5 +396,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
