@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ramangupta6117/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Ramangupta6117/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ramangupta6117/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ramangupta6117/leetcode/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0900-reordered-power-of-2](https://github.com/Ramangupta6117/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Ramangupta6117/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Ramangupta6117/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ramangupta6117/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ramangupta6117/leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramangupta6117/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Ramangupta6117/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ramangupta6117/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ramangupta6117/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ramangupta6117/leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
