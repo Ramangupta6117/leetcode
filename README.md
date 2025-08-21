@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ramangupta6117/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ramangupta6117/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Ramangupta6117/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Ramangupta6117/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ramangupta6117/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ramangupta6117/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ramangupta6117/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/Ramangupta6117/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Ramangupta6117/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ramangupta6117/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ramangupta6117/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ramangupta6117/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1448-maximum-69-number](https://github.com/Ramangupta6117/leetcode/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ramangupta6117/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
