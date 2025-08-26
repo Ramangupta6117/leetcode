@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Ramangupta6117/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ramangupta6117/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Ramangupta6117/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
