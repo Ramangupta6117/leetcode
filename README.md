@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramangupta6117/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Ramangupta6117/leetcode/tree/master/0812-rotate-string) |
 ## Counting
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ramangupta6117/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Ramangupta6117/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ramangupta6117/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ramangupta6117/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ramangupta6117/leetcode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ramangupta6117/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Ramangupta6117/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ramangupta6117/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Ramangupta6117/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Ramangupta6117/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
