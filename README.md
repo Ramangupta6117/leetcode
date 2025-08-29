@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ramangupta6117/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ramangupta6117/leetcode/tree/master/1448-maximum-69-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ramangupta6117/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2481-strictly-palindromic-number](https://github.com/Ramangupta6117/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3321-type-of-triangle](https://github.com/Ramangupta6117/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Ramangupta6117/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/Ramangupta6117/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ramangupta6117/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
@@ -453,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Ramangupta6117/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Ramangupta6117/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
