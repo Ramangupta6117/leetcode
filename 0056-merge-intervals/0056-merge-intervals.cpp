@@ -7,9 +7,9 @@ public:
         for(auto& it : intervals){
             if(ans.empty() || it[0] > ans.back()[1]){
                 ans.push_back(it);
-                continue;
-            }
+            }else{
             ans[ans.size()-1][1] = max(ans[ans.size() -1 ][1],it[1]);
+            }
         }
         return ans;
     }
