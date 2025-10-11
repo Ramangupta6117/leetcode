@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramangupta6117/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ramangupta6117/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/Ramangupta6117/leetcode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Ramangupta6117/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Ramangupta6117/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ramangupta6117/leetcode/tree/master/0525-contiguous-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ramangupta6117/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramangupta6117/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Ramangupta6117/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/Ramangupta6117/leetcode/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ramangupta6117/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -432,10 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ramangupta6117/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramangupta6117/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramangupta6117/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/Ramangupta6117/leetcode/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ramangupta6117/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/Ramangupta6117/leetcode/tree/master/0456-132-pattern) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Ramangupta6117/leetcode/tree/master/0456-132-pattern) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ramangupta6117/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [3790-fruits-into-baskets-ii](https://github.com/Ramangupta6117/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Function
